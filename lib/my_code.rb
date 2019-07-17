@@ -50,7 +50,9 @@ def reduce_to_all_true(source_array)
     if reduce_to_all_true[i] != nil 
       return true
     end
-    i += 1
+    i += 1 
+  end
+  
 end
 
 
